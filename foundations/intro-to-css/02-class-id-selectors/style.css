@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+/* All odd styles have the following attributes */
+.odd {
+    background-color: #f08080;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+/* Only the third element has the following attribute */
+.three{
+    font-size: 24px;
+}
+
+/* Only the second element, an id, has the following attribute */
+#two {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+/* Only the fourth element, an id, has the following attributes */
+#four {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
